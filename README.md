@@ -1,4 +1,8 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm FERDAOUS EL IDRISSI 👋</h1>
+<p align="center">
+  <img src="https://badge.mediaplus.ma/greenbinary/feel-idr" alt="feel-idr's 42 stats">
+</p>
+- 🧠 I’m currently a student at 1337 Benguerir (42 Network).
 
 <!--
 **bettercallmefifi/bettercallmefifi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
