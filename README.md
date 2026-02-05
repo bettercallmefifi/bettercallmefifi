@@ -45,14 +45,6 @@ I value discipline, consistency, and simplicity in software development.
 
 ---
 
-## 📊 Statistiques GitHub
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bettercallmefifi&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bettercallmefifi&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bettercallmefifi&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&fire=ff6d00&currStreakNum=ffffff&sideNums=58a6ff" />
-</div>
-
-
 ## 📚 Education
 - **Software Engineering Student**  
   **UM6P | 1337 Coding School**
