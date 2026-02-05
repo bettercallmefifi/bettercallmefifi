@@ -30,7 +30,7 @@ I value discipline, consistency, and simplicity in software development.
 
 ---
 
-## 📫 Me contacter
+## 📫 My contacts
 <div align="left">
 <a href="mailto:ferdaouskai@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
