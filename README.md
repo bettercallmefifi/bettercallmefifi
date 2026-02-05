@@ -30,6 +30,29 @@ I value discipline, consistency, and simplicity in software development.
 
 ---
 
+## 📫 Me contacter
+<div align="left">
+<a href="mailto:ferdaouskai@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/bettercallmefifi">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/ferdaous-el-idrissi-51846927a">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+</div>
+
+---
+
+## 📊 Statistiques GitHub
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=bettercallmefifi&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bettercallmefifi&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bettercallmefifi&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&fire=ff6d00&currStreakNum=ffffff&sideNums=58a6ff" />
+</div>
+
+
 ## 📚 Education
 - **Software Engineering Student**  
   **UM6P | 1337 Coding School**
