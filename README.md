@@ -47,10 +47,10 @@ I value discipline, consistency, and simplicity in software development.
 
 ## 📚 Education
 - **Software Engineering Student**  
-  **UM6P | 1337 Coding School**
+ - **UM6P | 1337 Coding School**
 - **High School Math teacher**
-  **Licence d'éducation Spécialité Enseignement secondaire mathématiques**
-  **École normale supérieure - Tétouan**
+ - **Licence d'éducation Spécialité Enseignement secondaire mathématiques**
+ - **École normale supérieure - Tétouan**
   
 ---
 
