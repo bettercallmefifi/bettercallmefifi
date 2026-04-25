@@ -5,9 +5,12 @@
 </p>
 
 <p align="center">
-  
- ![42 Network](https://img.shields.io/badge/42%20Network-%23000000?style=for-the-badge&labelColor=%23000000&color=%23000000) ![UM6P](https://img.shields.io/badge/UM6P-%23FF6A00?style=for-the-badge&labelColor=%23FF6A00&color=%23FF6A00&logoColor=white) ![C • Python • Algorithms](https://img.shields.io/badge/C%20%E2%80%A2%20Python%20%E2%80%A2%20Algorithms-%236A0DAD?style=for-the-badge&labelColor=%236A0DAD&color=%236A0DAD&logoColor=white) ![Night Coder](https://img.shields.io/badge/-Night%20Coder-%2300008B?style=for-the-badge&color=%2300008B)
- </p>
+  <img src="https://img.shields.io/badge/42%20Network-%23000000?style=for-the-badge&labelColor=%23000000&color=%23000000" />
+  <img src="https://img.shields.io/badge/UM6P-%23FF6A00?style=for-the-badge&labelColor=%23FF6A00&color=%23FF6A00&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%20%E2%80%A2%20Python%20%E2%80%A2%20Algorithms-%236A0DAD?style=for-the-badge&labelColor=%236A0DAD&color=%236A0DAD&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Night%20Coder-%2300008B?style=for-the-badge&color=%2300008B" />
+</p>
+
 <p align="center">
   <img src="https://badge.mediaplus.ma/binary/feel-idr" alt="feel-idr's 42 stats">
 </p>
