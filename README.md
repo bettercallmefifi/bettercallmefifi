@@ -1,6 +1,10 @@
-<h1 align="center">Hi, I'm FERDAOUS EL IDRISSI 👋</h1>
+<p align="center">
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=42&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Hamza;1337+Student&shadow=1" alt="Typing SVG" />
+</h1>
+</p>
 
-🎓 **Software Engineering Student at UM6P | 1337 Coding School**  
+ ![42 Network](https://img.shields.io/badge/42%20Network-%23000000?style=for-the-badge&labelColor=%23000000&color=%23000000) ![UM6P](https://img.shields.io/badge/UM6P-%23FF6A00?style=for-the-badge&labelColor=%23FF6A00&color=%23FF6A00&logoColor=white) ![C • Python • Algorithms](https://img.shields.io/badge/C%20%E2%80%A2%20Python%20%E2%80%A2%20Algorithms-%236A0DAD?style=for-the-badge&labelColor=%236A0DAD&color=%236A0DAD&logoColor=white) ![Night Coder](https://img.shields.io/badge/-Night%20Coder-%2300008B?style=for-the-badge&color=%2300008B)
 <p align="center">
   <img src="https://badge.mediaplus.ma/binary/feel-idr" alt="feel-idr's 42 stats">
 </p>
