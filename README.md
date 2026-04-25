@@ -1,6 +1,6 @@
 <p align="center">
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=37&pause=1000&color=F7F7F7&width=435&height=59&lines=Ferdaous+El+Idrissi;%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BBstudent+at+UM6P+%7C+1337+;%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%8F%ABHigh+School+Math+teacher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2A14F7&width=435&lines=Ferdaous+El+Idrissi;%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BBstudent+at+UM6P+%7C+1337+;%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%8F%ABHigh+School+Math+teacher" alt="Typing SVG" />
 </h1>
 </p>
 
