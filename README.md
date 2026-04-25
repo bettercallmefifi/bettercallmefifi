@@ -1,7 +1,9 @@
-<p align="center">
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2A14F7&width=435&lines=Ferdaous+El+Idrissi;%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BBstudent+at+UM6P+%7C+1337+;%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%8F%ABHigh+School+Math+teacher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=2A14F7&width=435&lines=Ferdaous+El+Idrissi;%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BBstudent+at+UM6P+%7C+1337+;Software+Engineer" alt="Typing SVG" />
 </h1>
+
+<p align="center">
+  <i>Software Engineering Student | Problem Solver | Clean Code Advocate</i>
 </p>
 
 <p align="center">
@@ -14,7 +16,10 @@
 <p align="center">
   <img src="https://badge.mediaplus.ma/binary/feel-idr" alt="feel-idr's 42 stats">
 </p>
+
+<p align="center">
 💻 Passionate about building clean, efficient, and maintainable software
+</p>
 
 ---
 
@@ -23,30 +28,44 @@ I am a software engineering student with a strong foundation in programming fund
 My focus is on writing **clean code**, understanding **core concepts deeply**, and continuously improving my technical skills.
 
 I value discipline, consistency, and simplicity in software development.
+
 <p align="center">
   <img 
     src="https://komarev.com/ghpvc/?username=bettercallmefifi&color=000000&style=for-the-badge" 
     alt="profile views" 
   />
 </p>
+
 ---
 
 ## 🛠️ Technical Stack
 
 ### Programming Languages
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=c,python,javascript,html,css" />
 </div>
 
 ### Tools & Environment
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </div>
 
 ---
 
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bettercallmefifi&theme=radical&hide_border=true&show_icons=true" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bettercallmefifi&theme=radical&hide_border=true" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bettercallmefifi&theme=radical&hide_border=true&layout=compact" width="50%" />
+</p>
+
+---
+
 ## 📫 My contacts
-<div align="left">
+<div align="center">
 <a href="mailto:ferdaouskai@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
@@ -94,21 +113,9 @@ I believe strong foundations are the key to long-term growth in software enginee
 
 ---
 
-<div align="center">
-✨ Building skills step by step, line by line.
-</div>
-
-<!--
-**bettercallmefifi/bettercallmefifi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✍️ Random Dev Quote:
+<p align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes" />
+  </a>
+</p>
