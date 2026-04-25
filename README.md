@@ -20,7 +20,12 @@ I am a software engineering student with a strong foundation in programming fund
 My focus is on writing **clean code**, understanding **core concepts deeply**, and continuously improving my technical skills.
 
 I value discipline, consistency, and simplicity in software development.
-
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=bettercallmefifi&color=000000&style=for-the-badge" 
+    alt="profile views" 
+  />
+</p>
 ---
 
 ## 🛠️ Technical Stack
