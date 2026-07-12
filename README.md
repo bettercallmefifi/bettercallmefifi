@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://badge.mediaplus.ma/binary/feel-idr" alt="feel-idr's 42 stats">
+  <img src="https://badge.mediaplus.ma/starryblue/feel-idr" alt="feel-idr's 42 stats">
 </p>
 
 <p align="center">
