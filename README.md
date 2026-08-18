@@ -52,15 +52,66 @@ I value discipline, consistency, and simplicity in software development.
 
 ---
 
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bettercallmefifi&theme=radical&hide_border=true&show_icons=true" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bettercallmefifi&theme=radical&hide_border=true" width="45%" />
-</p>
+```mermaid
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0D1117','primaryTextColor':'#C9D1D9','primaryBorderColor':'#30363D','lineColor':'#484F58','fontFamily':'monospace','fontSize':'16px'}}}%%
+graph TD
+    LIB["✓ libft"]:::done --> G0((" ")):::gate
+    G0 --> GNL["✓ get_next_line"]:::done
+    G0 --> FP["✓ ft_printf"]:::done
+    G0 --> B2B["✓ born2beroot"]:::done
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bettercallmefifi&theme=radical&hide_border=true&layout=compact" width="50%" />
-</p>
+    GNL --> G1((" ")):::gate
+    FP --> G1
+    B2B --> G1
+
+    G1 --> PY["✓ python_piscine"]:::done
+    G1 --> AM["✓ a-maze-ing"]:::done
+    G1 --> PS["✓ push_swap"]:::done
+    G1 --> E2["✓ exam_rank_02"]:::done
+
+    PY --> G2((" ")):::gate
+    AM --> G2
+    PS --> G2
+    E2 --> G2
+
+    G2 --> FI["✓ fly-in"]:::done
+    G2 --> CX["✓ codexion"]:::done
+    G2 --> CMM["✓ call_me_maybe"]:::done
+    G2 --> E3["✓ exam_rank_03"]:::done
+
+    FI --> G3((" ")):::gate
+    CX --> G3
+    CMM --> G3
+    E3 --> G3
+
+    G3 --> E4["✓ exam_rank_04"]:::done
+    G3 --> RAG["✓rag_against_the_machine"]:::done
+    G3 --> NP["netpractice"]:::todo
+    G3 --> PM["pac-man"]:::todo
+
+    E4 --> G4((" ")):::gate
+    RAG --> G4
+    NP --> G4
+    PM --> G4
+
+    G4 --> AS["agent_smith"]:::todo
+    G4 --> E5["exam_rank_05"]:::todo
+    G4 --> INC["inception"]:::todo
+    G4 --> AP["answer_protocol"]:::todo
+
+    AS --> G5((" ")):::gate
+    E5 --> G5
+    INC --> G5
+    AP --> G5
+
+    G5 --> FT["ft_transcendence"]:::todo
+    G5 --> E6["exam_rank_06"]:::todo
+    G5 --> CR["42_collaborative_resume"]:::todo
+
+    classDef done fill:#00FF41,stroke:#00FF41,color:#0D1117,stroke-width:2px
+    classDef todo fill:#161B22,stroke:#484F58,color:#8B949E
+    classDef gate fill:#30363D,stroke:#30363D,color:#30363D
+```
 
 ---
 
