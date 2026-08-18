@@ -51,6 +51,7 @@ I value discipline, consistency, and simplicity in software development.
 </div>
 
 ---
+## Commun Core Progress
 
 ```mermaid
 %%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0D1117','primaryTextColor':'#C9D1D9','primaryBorderColor':'#30363D','lineColor':'#484F58','fontFamily':'monospace','fontSize':'16px'}}}%%
