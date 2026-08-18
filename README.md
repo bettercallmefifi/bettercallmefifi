@@ -75,8 +75,8 @@ graph TD
     E2 --> G2
 
     G2 --> FI["✓ fly-in"]:::done
-    G2 --> CX["✓ codexion"]:::done
-    G2 --> CMM["✓ call_me_maybe"]:::done
+    G2 --> CX["✓ codexion"]:::todo
+    G2 --> CMM["✓ call_me_maybe"]:::todo
     G2 --> E3["✓ exam_rank_03"]:::done
 
     FI --> G3((" ")):::gate
@@ -84,8 +84,8 @@ graph TD
     CMM --> G3
     E3 --> G3
 
-    G3 --> E4["✓ exam_rank_04"]:::done
-    G3 --> RAG["✓rag_against_the_machine"]:::done
+    G3 --> E4["✓ exam_rank_04"]:::todo
+    G3 --> RAG["✓rag_against_the_machine"]:::todo
     G3 --> NP["netpractice"]:::todo
     G3 --> PM["pac-man"]:::todo
 
