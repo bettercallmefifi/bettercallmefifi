@@ -77,7 +77,7 @@ graph TD
 
     G2 --> FI["✓ fly-in"]:::done
     G2 --> CX["codexion"]:::todo
-    G2 --> CMM["call_me_maybe"]:::todo
+    G2 --> CMM["✓ call_me_maybe"]:::done
     G2 --> E3["✓ exam_rank_03"]:::done
 
     FI --> G3((" ")):::gate
