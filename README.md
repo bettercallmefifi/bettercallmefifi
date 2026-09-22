@@ -76,7 +76,7 @@ graph TD
     E2 --> G2
 
     G2 --> FI["✓ fly-in"]:::done
-    G2 --> CX["codexion"]:::todo
+    G2 --> CX["✓ codexion"]:::done
     G2 --> CMM["✓ call_me_maybe"]:::done
     G2 --> E3["✓ exam_rank_03"]:::done
 
