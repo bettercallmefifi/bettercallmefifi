@@ -85,7 +85,7 @@ graph TD
     CMM --> G3
     E3 --> G3
 
-    G3 --> E4["exam_rank_04"]:::todo
+    G3 --> E4["exam_rank_04"]:::done
     G3 --> RAG["rag_against_the_machine"]:::todo
     G3 --> NP["netpractice"]:::todo
     G3 --> PM["pac-man"]:::todo
